@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic Hello World Program. I created this to desmostrated the use of Visual Studio Code, GitHub, and Python integrated together. 
+This is a basic Hello World Program. I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated. 
 
 Hello world program demo
 
