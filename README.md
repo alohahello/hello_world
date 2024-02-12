@@ -15,4 +15,3 @@ Hello world program demo
 # Useful Websites
 
 * [Visual Studio Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
-* [Web Site Name](http://url.link.goes.here)
